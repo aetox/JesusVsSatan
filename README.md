@@ -5,7 +5,7 @@ Bienvenue sur JesusVsSatan, un projet basé sur Python!
 ## Prérequis
 Avant de commencer, assurez-vous d'avoir respecté les conditions suivantes :
 * Vous avez installé une version appropriée de Python sur votre machine.
-* Avoir installé le module pygame pour Python. Vous pouvez les installer en utilisant la commande suivante :
+* Avoir installé le module pygame pour Python. Vous pouvez l'installer en utilisant la commande suivante :
   ```
   pip install pygame
   ```
